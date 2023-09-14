@@ -32,6 +32,3 @@ steps:
 
   displayName: 'dotnet build $(buildConfiguration)'
 
-Build, test, and deploy .NET Core apps - Azure Pipelines
-
-Use .NET Core to build apps with Azure Pipelines, Azure DevOps, & Team Foundation Server.
